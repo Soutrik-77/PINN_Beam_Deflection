@@ -35,7 +35,7 @@ ensures smooth higher-order derivatives for accurate
 physics residual computation.
 
 ## Results
-![Solution](results/solution.png)
+
 
 | Metric | Value |
 |--------|-------|
